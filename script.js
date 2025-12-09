@@ -97,6 +97,21 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // --- 3. Mapeamento de Categorias para Ícones ---
+    const categoryIconMap = {
+        'bones': 'cap.svg',
+        'camisetas': 'camiseta.svg',
+        'calcas': 'calca.svg',
+        'shorts': 'shorts.svg',
+        'moletons': 'moletom.svg',
+        'chinelos': 'chinelo.svg',
+        'jaquetas': 'jaqueta.svg',
+        'cintos': 'cinto.svg',
+        'correntes': 'corrente.svg',
+        'lupas': 'lupa.svg',
+        'conjuntos': 'conjunto.svg'
+    };
+
     // --- 3. Renderização de Produtos ---
     function renderProductCard(product) {
         const card = document.createElement('div');
@@ -116,9 +131,15 @@ document.addEventListener('DOMContentLoaded', () => {
         const whatsappMessage = encodeURIComponent(`Olá, tenho interesse no produto ${product.name} - Ref: ${product.ref}.`);
         const whatsappLink = `https://wa.me/5511958855631?text=${whatsappMessage}`;
 
+        // Determina o ícone da categoria
+        const iconFileName = categoryIconMap[product.category_slug] || 'lupa.svg';
+        const iconPath = `./assets/icons/${iconFileName}`;
+
         card.innerHTML = `
             <div class="product-image-container">
-                <img src="assets/images/placeholder_${product.ref}.jpg" alt="${product.name}" class="product-image">
+                <div class="product-image-placeholder">
+                    <img src="${iconPath}" alt="${product.category}" class="category-icon">
+                </div>
             </div>
             <div class="product-details">
                 <h3>${product.name}</h3>

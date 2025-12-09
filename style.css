@@ -111,6 +111,8 @@ a:hover {
 
 .logo {
     height: 50px; /* Tamanho do logo */
+    border-radius: 10px; /* Arredondar os cantos */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Efeito de sombra sutil */
 }
 
 .desktop-menu {
@@ -296,6 +298,18 @@ a:hover {
     padding: 20px;
 }
 
+.category-icon {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+}
+
+.product-card:hover .category-icon {
+    opacity: 1;
+}
+
 .contact-message {
     text-align: center;
     color: var(--color-secondary);
@@ -371,6 +385,7 @@ a:hover {
 
 .footer-logo .logo-reduced {
     height: 40px;
+    border-radius: 8px; /* Arredondar os cantos */
     filter: brightness(0) invert(1); /* Inverter cores para aparecer no fundo escuro */
 }
 
