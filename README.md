@@ -13,4 +13,4 @@ Este é o catálogo de produtos estático da JV STORE, hospedado no GitHub Pages
 *   **WhatsApp:** [+55 11 95885-5631](https://wa.me/5511958855631)
 
 ## Acesso ao Catálogo
-O catálogo está disponível em: [Link do GitHub Pages será adicionado após o deploy]
+O catálogo está disponível em: [https://artur-source.github.io/JVSTORE/](https://artur-source.github.io/JVSTORE/)
