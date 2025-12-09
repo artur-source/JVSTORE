@@ -108,20 +108,9 @@ document.addEventListener('DOMContentLoaded', () => {
         // Formatação de preço
         const formattedPrice = product.price.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
 
-        // Informação de estoque
+        // Informação de estoque removida
         let stockHtml = '';
         let totalStock = product.total_stock;
-        let stockClass = totalStock <= 2 && totalStock > 0 ? 'stock-low' : '';
-        let stockText = totalStock === 0 ? 'Esgotado' : `Estoque: ${totalStock}`;
-
-        if (totalStock > 0) {
-            stockHtml = `<p class="product-stock ${stockClass}">
-                ${stockText}
-                ${product.stock_info.map(s => s.size !== 'Único' ? `(${s.size}: ${s.stock})` : '').join(' ')}
-            </p>`;
-        } else {
-            stockHtml = `<p class="product-stock stock-low">Esgotado</p>`;
-        }
 
         // Link WhatsApp com mensagem pré-formatada
         const whatsappMessage = encodeURIComponent(`Olá, tenho interesse no produto ${product.name} - Ref: ${product.ref}.`);
@@ -129,14 +118,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
         card.innerHTML = `
             <div class="product-image-container">
-                <div class="product-image-placeholder">
-                    <p class="contact-message">Para consultar as imagens, entre em contato</p>
-                </div>
+                <img src="assets/images/placeholder_${product.ref}.jpg" alt="${product.name}" class="product-image">
             </div>
             <div class="product-details">
                 <h3>${product.name}</h3>
                 <p class="product-ref">Ref: ${product.ref}</p>
-                ${stockHtml}
                 <p class="product-price">${formattedPrice}</p>
                 <a href="${whatsappLink}" target="_blank" class="btn btn-whatsapp" ${totalStock === 0 ? 'disabled' : ''}>
                     <i class="fab fa-whatsapp"></i> ${totalStock === 0 ? 'Esgotado' : 'Comprar via WhatsApp'}
