@@ -1,5 +1,14 @@
 # Changelog - JV STORE
 
+## [Versão 2.1] - 2025-12-09
+
+### Corrigido
+- **Ícones SVG Incorretos**: Substituição de ícones SVG que estavam incorretos ou corrompidos:
+  - `chinelo.svg`: O arquivo estava corrompido e foi substituído por um ícone de chinelo mais representativo.
+  - `cinto.svg`: O ícone foi substituído por um que representa melhor um cinto.
+  - `corrente.svg`: O ícone foi substituído por um que representa melhor uma corrente/colar.
+  - `lupa.svg`: O ícone foi substituído por um que representa melhor uma lupa/pesquisa.
+
 ## [Versão 2.0] - 2025-12-08
 
 ### Adicionado
