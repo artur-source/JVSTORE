@@ -387,7 +387,8 @@ a:hover {
     height: 40px;
     border-radius: 10px; /* Arredondar os cantos */
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.3); /* Sombra clara para fundo escuro */
-    filter: brightness(0) invert(1); /* Inverter cores para aparecer no fundo escuro */
+
+
 }
 
 .footer-tagline {
