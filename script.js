@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- 3. Mapeamento de Categorias para Ícones ---
     const categoryIconMap = {
-        'bones': 'cap.svg',
+        'bones': 'bone.svg',
         'camisetas': 'camiseta.svg',
         'calcas': 'calca.svg',
         'shorts': 'shorts.svg',
@@ -132,7 +132,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const whatsappLink = `https://wa.me/5511958855631?text=${whatsappMessage}`;
 
         // Determina o ícone da categoria
-        const iconFileName = categoryIconMap[product.category_slug] || 'lupa.svg';
+        const iconFileName = categoryIconMap[product.category_slug] || 'conjunto.svg'; // Usar um ícone mais genérico como fallback
         const iconPath = `./assets/icons/${iconFileName}`;
 
         card.innerHTML = `
