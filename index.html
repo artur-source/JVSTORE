@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JV STORE - Catálogo Estático</title>
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Ícones Font Awesome (para busca, WhatsApp, Instagram, menu hambúrguer) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header id="main-header">
+        <div class="container">
+            <a href="#hero" class="logo-link">
+                <img src="assets/images/logo_optimized.png" alt="JV STORE Logo" class="logo">
+            </a>
+            
+            <!-- Menu Âncora por Categoria (Desktop) -->
+            <nav class="desktop-menu">
+                <ul id="category-menu">
+                    <!-- Categorias serão preenchidas via JS -->
+                </ul>
+            </nav>
+
+            <div class="header-actions">
+                <button id="search-toggle" class="icon-button" aria-label="Buscar Produto">
+                    <i class="fas fa-search"></i>
+                </button>
+                <button id="menu-toggle" class="icon-button" aria-label="Menu Principal">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </div>
+        </div>
+        <!-- Barra de Busca (Inicialmente oculta) -->
+        <div id="search-bar" class="search-bar-container">
+            <input type="text" id="search-input" placeholder="Buscar por nome ou referência...">
+        </div>
+    </header>
+
+    <!-- Menu Hambúrguer (Mobile) -->
+    <nav id="mobile-menu" class="mobile-menu">
+        <ul id="mobile-category-menu">
+            <!-- Categorias e links serão preenchidos via JS -->
+        </ul>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero-section">
+        <div class="container">
+            <h1 class="hero-title">A Moda que Veste a Sua Atitude.</h1>
+            <div class="hero-buttons">
+                <a href="https://www.instagram.com/01jvstore" target="_blank" class="btn btn-instagram">
+                    <i class="fab fa-instagram"></i> Instagram
+                </a>
+                <a href="https://wa.me/5511958855631" target="_blank" class="btn btn-whatsapp">
+                    <i class="fab fa-whatsapp"></i> WhatsApp
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Catálogo Section -->
+    <section id="catalog" class="catalog-section">
+        <div class="container">
+            <h2>Nosso Catálogo</h2>
+            
+            <!-- Filtros -->
+            <div class="filters-container">
+                <div id="category-filters" class="category-filters">
+                    <!-- Botões de filtro serão preenchidos via JS -->
+                </div>
+                <button id="clear-filters" class="btn btn-secondary">Limpar Filtros</button>
+            </div>
+
+            <!-- Grade de Produtos -->
+            <div id="product-grid" class="product-grid">
+                <!-- Cards de produtos serão preenchidos via JS -->
+            </div>
+
+            <p id="no-results" class="no-results-message" style="display: none;">Nenhum produto encontrado com os critérios de busca/filtro.</p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer id="main-footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <img src="assets/images/logo_optimized.png" alt="JV STORE Logo Reduzida" class="logo-reduced">
+                </div>
+                <div class="footer-links">
+                    <h4>Links Úteis</h4>
+                    <ul>
+                        <li><a href="#hero">Início</a></li>
+                        <li><a href="#catalog">Catálogo</a></li>
+                        <li><a href="https://www.instagram.com/01jvstore" target="_blank">Instagram</a></li>
+                        <li><a href="https://wa.me/5511958855631" target="_blank">WhatsApp</a></li>
+                    </ul>
+                </div>
+                <div class="footer-contact">
+                    <h4>Contato</h4>
+                    <p>Instagram: <a href="https://www.instagram.com/01jvstore" target="_blank">@01jvstore</a></p>
+                    <p>WhatsApp: <a href="https://wa.me/5511958855631" target="_blank">11 95885-5631</a></p>
+                </div>
+                <div class="footer-qr">
+                    <h4>Siga-nos</h4>
+                    <img src="assets/images/qrcode-instagram.jpg" alt="QR Code Instagram" class="qr-code">
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 JV STORE. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,2710 @@
+[
+  {
+    "id": 1,
+    "name": "Bone Amiri All Black",
+    "ref": "01",
+    "category": "Bonés",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 2
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/01.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bone Amiri Azul Escuro",
+    "ref": "03",
+    "category": "Bonés",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 3
+      }
+    ],
+    "total_stock": 3,
+    "image_url": "assets/images/03.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bone Amiri Azul Royal",
+    "ref": "02",
+    "category": "Bonés",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 2
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/02.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Bone Amiri Branco",
+    "ref": "04",
+    "category": "Bonés",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 2
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/04.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Bone Armani Azul/Branco",
+    "ref": "52",
+    "category": "Bonés",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/52.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Bone Armani Preto/Branco",
+    "ref": "50",
+    "category": "Bonés",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/50.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Bone Armani Preto/Laranja",
+    "ref": "51",
+    "category": "Bonés",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/51.jpg"
+  },
+  {
+    "id": 131,
+    "name": "Bone Lacoste Sport 2025 Azul Marinho",
+    "ref": "131",
+    "category": "Bonés",
+    "price": 300.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 2
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/131.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Bone Lacoste Sport 2025 Branco",
+    "ref": "55",
+    "category": "Bonés",
+    "price": 300.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 2
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/55.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Bone Lv Jeans(Azul",
+    "ref": "47",
+    "category": "Bonés",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/47.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Bone Lv Jeans(Prata",
+    "ref": "46",
+    "category": "Bonés",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/46.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Bone New Era Boston",
+    "ref": "54",
+    "category": "Bonés",
+    "price": 150.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/54.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Bone New York Yankees",
+    "ref": "53",
+    "category": "Bonés",
+    "price": 150.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/53.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Bone Osascorte 244 All Black",
+    "ref": "06",
+    "category": "Bonés",
+    "price": 50.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 2
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/06.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Bone Osascorte 244 Azul/Bege",
+    "ref": "07",
+    "category": "Bonés",
+    "price": 50.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 3
+      }
+    ],
+    "total_stock": 3,
+    "image_url": "assets/images/07.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Bone Osascorte 244 Branco",
+    "ref": "10",
+    "category": "Bonés",
+    "price": 50.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/10.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Bone Osascorte 244 Preto/Azul Bebe",
+    "ref": "08",
+    "category": "Bonés",
+    "price": 50.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 2
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/08.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Bone Osascorte 244 Preto/Cinza",
+    "ref": "09",
+    "category": "Bonés",
+    "price": 50.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 2
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/09.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Bone Osascorte Letreiro Branco",
+    "ref": "48",
+    "category": "Bonés",
+    "price": 50.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/48.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Bone Osascorte Letreiro Preto/Azul",
+    "ref": "49",
+    "category": "Bonés",
+    "price": 50.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/49.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Calça Jogador Brow Jeans",
+    "ref": "111",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "38",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/111.jpg"
+  },
+  {
+    "id": 112,
+    "name": "Calça Jogador Brow Jeans",
+    "ref": "112",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "40",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/112.jpg"
+  },
+  {
+    "id": 121,
+    "name": "Calça Jogador Brow Jeans",
+    "ref": "121",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "44",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/121.jpg"
+  },
+  {
+    "id": 122,
+    "name": "Calça Jogador Brow Jeans",
+    "ref": "122",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "44",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/122.jpg"
+  },
+  {
+    "id": 124,
+    "name": "Calça Jogador Brow Jeans",
+    "ref": "124",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "44",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/124.jpg"
+  },
+  {
+    "id": 127,
+    "name": "Calça Jogador Brow Jeans",
+    "ref": "127",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "46",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/127.jpg"
+  },
+  {
+    "id": 118,
+    "name": "Calça Jogador Brow Jeans Azul",
+    "ref": "118",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "42",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/118.jpg"
+  },
+  {
+    "id": 160,
+    "name": "Calça Jogador Brow Jeans Azul",
+    "ref": "160",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "40",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/160.jpg"
+  },
+  {
+    "id": 165,
+    "name": "Calça Jogador Brow Jeans Azul",
+    "ref": "165",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "44",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/165.jpg"
+  },
+  {
+    "id": 116,
+    "name": "Calça Jogador Brow Jeans Azul Escuro",
+    "ref": "116",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "40",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/116.jpg"
+  },
+  {
+    "id": 119,
+    "name": "Calça Jogador Brow Jeans Cinza",
+    "ref": "119",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "42",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/119.jpg"
+  },
+  {
+    "id": 123,
+    "name": "Calça Jogador Brow Jeans Cinza",
+    "ref": "123",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "44",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/123.jpg"
+  },
+  {
+    "id": 128,
+    "name": "Calça Jogador Brow Jeans Cinza",
+    "ref": "128",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "46",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/128.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Calça Jogador Brow Jeans Clara",
+    "ref": "110",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "38",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/110.jpg"
+  },
+  {
+    "id": 113,
+    "name": "Calça Jogador Brow Jeans Clara",
+    "ref": "113",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "40",
+        "stock": 1
+      },
+      {
+        "size": "44",
+        "stock": 1
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/113.jpg"
+  },
+  {
+    "id": 115,
+    "name": "Calça Jogador Brow Jeans Clara",
+    "ref": "115",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "40",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/115.jpg"
+  },
+  {
+    "id": 120,
+    "name": "Calça Jogador Brow Jeans Clara",
+    "ref": "120",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "42",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/120.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Calça Jogador Brow Jeans Grafite",
+    "ref": "109",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "38",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/109.jpg"
+  },
+  {
+    "id": 114,
+    "name": "Calça Jogador Brow Jeans Grafite",
+    "ref": "114",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "40",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/114.jpg"
+  },
+  {
+    "id": 117,
+    "name": "Calça Jogador Brow Jeans Preta",
+    "ref": "117",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "42",
+        "stock": 2
+      },
+      {
+        "size": "44",
+        "stock": 1
+      }
+    ],
+    "total_stock": 3,
+    "image_url": "assets/images/117.jpg"
+  },
+  {
+    "id": 161,
+    "name": "Calça Jogador Brow Jeans Preta",
+    "ref": "161",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "40",
+        "stock": 1
+      },
+      {
+        "size": "44",
+        "stock": 1
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/161.jpg"
+  },
+  {
+    "id": 164,
+    "name": "Calça Jogador Brow Jeans Preta",
+    "ref": "164",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "38",
+        "stock": 1
+      },
+      {
+        "size": "44",
+        "stock": 1
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/164.jpg"
+  },
+  {
+    "id": 167,
+    "name": "Calça Jogador Brow Jeans Preta",
+    "ref": "167",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "44",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/167.jpg"
+  },
+  {
+    "id": 168,
+    "name": "Calça Jogador Brow Jeans Preta",
+    "ref": "168",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "44",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/168.jpg"
+  },
+  {
+    "id": 163,
+    "name": "Calça Jogador Brow Jeans Preta/Cinza",
+    "ref": "163",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "40",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/163.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Calça Preta Lisa Alfaitaria",
+    "ref": "16",
+    "category": "Calças",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "40",
+        "stock": 1
+      },
+      {
+        "size": "42",
+        "stock": 1
+      },
+      {
+        "size": "44",
+        "stock": 2
+      }
+    ],
+    "total_stock": 4,
+    "image_url": "assets/images/16.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Camiseta Brooksfield Letreiro Azul",
+    "ref": "42",
+    "category": "Camisetas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 2
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/42.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Camiseta Brooksfield Letreiro Branca",
+    "ref": "32",
+    "category": "Camisetas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 2
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/32.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Camiseta Brooksfield Listrada",
+    "ref": "44",
+    "category": "Camisetas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/44.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Camiseta Brooksfield Listrada",
+    "ref": "45",
+    "category": "Camisetas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/45.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Camiseta Brooksfield Listrada(Branca)",
+    "ref": "38",
+    "category": "Camisetas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 2
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/38.jpg"
+  },
+  {
+    "id": 132,
+    "name": "Camiseta Brooksfield Listrada(Branco e\nPreto)",
+    "ref": "132",
+    "category": "Camisetas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/132.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Camiseta Brooksfield Listrada(Laranja)",
+    "ref": "36",
+    "category": "Camisetas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/36.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Camiseta Brooksfield Listrada(Marrom)",
+    "ref": "43",
+    "category": "Camisetas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/43.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Camiseta Brooksfield\nListrada(Preto/Branco)",
+    "ref": "33",
+    "category": "Camisetas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/33.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Camiseta Brooksfield Listrada(Verde)",
+    "ref": "34",
+    "category": "Camisetas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/34.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Camiseta Brooksfield\nListrada(Vermelho/Preto)",
+    "ref": "35",
+    "category": "Camisetas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "G",
+        "stock": 2
+      }
+    ],
+    "total_stock": 3,
+    "image_url": "assets/images/35.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Camiseta Club Lacoste Preta",
+    "ref": "11",
+    "category": "Camisetas",
+    "price": 60.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/11.jpg"
+  },
+  {
+    "id": 154,
+    "name": "Camiseta EA7 Armani Branca",
+    "ref": "154",
+    "category": "Camisetas",
+    "price": 60.0,
+    "stock_info": [
+      {
+        "size": "P",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/154.jpg"
+  },
+  {
+    "id": 153,
+    "name": "Camiseta EA7 Armani Preta",
+    "ref": "153",
+    "category": "Camisetas",
+    "price": 60.0,
+    "stock_info": [
+      {
+        "size": "P",
+        "stock": 1
+      },
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 3,
+    "image_url": "assets/images/153.jpg"
+  },
+  {
+    "id": 152,
+    "name": "Camiseta Lacoste Off-White",
+    "ref": "152",
+    "category": "Camisetas",
+    "price": 60.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      },
+      {
+        "size": "GG",
+        "stock": 1
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/152.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Camiseta Poloplay Azul Marinho",
+    "ref": "41",
+    "category": "Camisetas",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/41.jpg"
+  },
+  {
+    "id": 143,
+    "name": "Camiseta Poloplay Azul(Vermelho)",
+    "ref": "143",
+    "category": "Camisetas",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "P",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/143.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Camiseta Poloplay Branca",
+    "ref": "39",
+    "category": "Camisetas",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/39.jpg"
+  },
+  {
+    "id": 142,
+    "name": "Camiseta Poloplay Branca",
+    "ref": "142",
+    "category": "Camisetas",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "P",
+        "stock": 1
+      },
+      {
+        "size": "M",
+        "stock": 1
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/142.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Camiseta Poloplay Cinza",
+    "ref": "37",
+    "category": "Camisetas",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/37.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Camiseta Poloplay Preta",
+    "ref": "40",
+    "category": "Camisetas",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/40.jpg"
+  },
+  {
+    "id": 144,
+    "name": "Camiseta Poloplay Preta(Azul)",
+    "ref": "144",
+    "category": "Camisetas",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/144.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Camiseta Poloplay Vermelha",
+    "ref": "31",
+    "category": "Camisetas",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "P",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/31.jpg"
+  },
+  {
+    "id": 146,
+    "name": "Camiseta Prado Milano Off-White",
+    "ref": "146",
+    "category": "Camisetas",
+    "price": 50.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/146.jpg"
+  },
+  {
+    "id": 145,
+    "name": "Camiseta Prado Milano Preta",
+    "ref": "145",
+    "category": "Camisetas",
+    "price": 50.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 3,
+    "image_url": "assets/images/145.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Camiseta Zara Azul",
+    "ref": "80",
+    "category": "Camisetas",
+    "price": 50.0,
+    "stock_info": [
+      {
+        "size": "GG",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/80.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Camiseta Zara Branca",
+    "ref": "78",
+    "category": "Camisetas",
+    "price": 50.0,
+    "stock_info": [
+      {
+        "size": "P",
+        "stock": 2
+      },
+      {
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "size": "G",
+        "stock": 3
+      }
+    ],
+    "total_stock": 13,
+    "image_url": "assets/images/78.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Camiseta Zara Branco/Preto",
+    "ref": "24",
+    "category": "Camisetas",
+    "price": 60.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 2
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/24.jpg"
+  },
+  {
+    "id": 138,
+    "name": "Camiseta Zara Listrada(Azul e Branco)",
+    "ref": "138",
+    "category": "Camisetas",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "G",
+        "stock": 1
+      },
+      {
+        "size": "GG",
+        "stock": 1
+      }
+    ],
+    "total_stock": 3,
+    "image_url": "assets/images/138.jpg"
+  },
+  {
+    "id": 135,
+    "name": "Camiseta Zara Listrada(Preto e Branco)",
+    "ref": "135",
+    "category": "Camisetas",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/135.jpg"
+  },
+  {
+    "id": 137,
+    "name": "Camiseta Zara Listrada(Roxo e Azul)",
+    "ref": "137",
+    "category": "Camisetas",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      },
+      {
+        "size": "GG",
+        "stock": 1
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/137.jpg"
+  },
+  {
+    "id": 136,
+    "name": "Camiseta Zara Listrada(Vermelha e\nBranco)",
+    "ref": "136",
+    "category": "Camisetas",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "GG",
+        "stock": 1
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/136.jpg"
+  },
+  {
+    "id": 147,
+    "name": "Camiseta Zara Off-White",
+    "ref": "147",
+    "category": "Camisetas",
+    "price": 50.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 2
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/147.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Camiseta Zara Preta",
+    "ref": "79",
+    "category": "Camisetas",
+    "price": 50.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 12
+      },
+      {
+        "size": "G",
+        "stock": 9
+      }
+    ],
+    "total_stock": 21,
+    "image_url": "assets/images/79.jpg"
+  },
+  {
+    "id": 95,
+    "name": "Chinelo Boss Letreiro Branco",
+    "ref": "95",
+    "category": "Chinelos",
+    "price": 50.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/95.jpg"
+  },
+  {
+    "id": 94,
+    "name": "Chinelo Boss Letreiro Preto",
+    "ref": "94",
+    "category": "Chinelos",
+    "price": 50.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/94.jpg"
+  },
+  {
+    "id": 92,
+    "name": "Chinelo Diesel Branco 40/41",
+    "ref": "92",
+    "category": "Chinelos",
+    "price": 50.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/92.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Chinelo Diesel Preto",
+    "ref": "93",
+    "category": "Chinelos",
+    "price": 50.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/93.jpg"
+  },
+  {
+    "id": 91,
+    "name": "Chinelo Gucci Preto 38/39",
+    "ref": "91",
+    "category": "Chinelos",
+    "price": 50.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/91.jpg"
+  },
+  {
+    "id": 89,
+    "name": "Chinelo Lv Branco 38/39",
+    "ref": "89",
+    "category": "Chinelos",
+    "price": 50.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/89.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Cinto Armani(A.X Dourado)",
+    "ref": "59",
+    "category": "Cintos",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/59.jpg"
+  },
+  {
+    "id": 57,
+    "name": "Cinto Armani(A.X Prata)",
+    "ref": "57",
+    "category": "Cintos",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/57.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Cinto Armani(A.X Preto)",
+    "ref": "58",
+    "category": "Cintos",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/58.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Cinto Armani(G.A Dourado)",
+    "ref": "56",
+    "category": "Cintos",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/56.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Cinto Calvin Klein(Prata)",
+    "ref": "63",
+    "category": "Cintos",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/63.jpg"
+  },
+  {
+    "id": 62,
+    "name": "Cinto Calvin Klein(Preto)",
+    "ref": "62",
+    "category": "Cintos",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/62.jpg"
+  },
+  {
+    "id": 68,
+    "name": "Cinto Gucci(G.G Dourado)",
+    "ref": "68",
+    "category": "Cintos",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/68.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Cinto Gucci(G.G Prata)",
+    "ref": "67",
+    "category": "Cintos",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/67.jpg"
+  },
+  {
+    "id": 69,
+    "name": "Cinto Gucci(G.G Preto",
+    "ref": "69",
+    "category": "Cintos",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/69.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Cinto Hermes(Prata)",
+    "ref": "64",
+    "category": "Cintos",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/64.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Cinto Hugo Boss(Boss Preto)",
+    "ref": "71",
+    "category": "Cintos",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/71.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Cinto Hugo Boss(H.B Preto)",
+    "ref": "70",
+    "category": "Cintos",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/70.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Cinto Lv(Dourado/Quadriculado)",
+    "ref": "65",
+    "category": "Cintos",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/65.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Cinto Lv(Lv Preto)",
+    "ref": "66",
+    "category": "Cintos",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/66.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Cinto Versage(Prata)",
+    "ref": "61",
+    "category": "Cintos",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/61.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Cinto Versage(Preto)",
+    "ref": "60",
+    "category": "Cintos",
+    "price": 40.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/60.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Conjunto De Frio Armani",
+    "ref": "22",
+    "category": "Conjuntos",
+    "price": 220.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/22.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Conjunto De Frio Balmain",
+    "ref": "23",
+    "category": "Conjuntos",
+    "price": 220.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/23.jpg"
+  },
+  {
+    "id": 129,
+    "name": "Conjunto Lacoste 2025",
+    "ref": "129",
+    "category": "Conjuntos",
+    "price": 200.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/129.jpg"
+  },
+  {
+    "id": 170,
+    "name": "Corrente",
+    "ref": "170",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/170.jpg"
+  },
+  {
+    "id": 171,
+    "name": "Corrente",
+    "ref": "171",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/171.jpg"
+  },
+  {
+    "id": 172,
+    "name": "Corrente",
+    "ref": "172",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/172.jpg"
+  },
+  {
+    "id": 173,
+    "name": "Corrente",
+    "ref": "173",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/173.jpg"
+  },
+  {
+    "id": 174,
+    "name": "Corrente",
+    "ref": "174",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/174.jpg"
+  },
+  {
+    "id": 175,
+    "name": "Corrente",
+    "ref": "175",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/175.jpg"
+  },
+  {
+    "id": 176,
+    "name": "Corrente",
+    "ref": "176",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/176.jpg"
+  },
+  {
+    "id": 177,
+    "name": "Corrente",
+    "ref": "177",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/177.jpg"
+  },
+  {
+    "id": 179,
+    "name": "Corrente",
+    "ref": "179",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/179.jpg"
+  },
+  {
+    "id": 180,
+    "name": "Corrente",
+    "ref": "180",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/180.jpg"
+  },
+  {
+    "id": 181,
+    "name": "Corrente",
+    "ref": "181",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/181.jpg"
+  },
+  {
+    "id": 182,
+    "name": "Corrente",
+    "ref": "182",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/182.jpg"
+  },
+  {
+    "id": 183,
+    "name": "Corrente",
+    "ref": "183",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/183.jpg"
+  },
+  {
+    "id": 184,
+    "name": "Corrente",
+    "ref": "184",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/184.jpg"
+  },
+  {
+    "id": 185,
+    "name": "Corrente",
+    "ref": "185",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/185.jpg"
+  },
+  {
+    "id": 186,
+    "name": "Corrente",
+    "ref": "186",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/186.jpg"
+  },
+  {
+    "id": 187,
+    "name": "Corrente",
+    "ref": "187",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/187.jpg"
+  },
+  {
+    "id": 188,
+    "name": "Corrente",
+    "ref": "188",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/188.jpg"
+  },
+  {
+    "id": 189,
+    "name": "Corrente",
+    "ref": "189",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/189.jpg"
+  },
+  {
+    "id": 190,
+    "name": "Corrente",
+    "ref": "190",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/190.jpg"
+  },
+  {
+    "id": 191,
+    "name": "Corrente",
+    "ref": "191",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/191.jpg"
+  },
+  {
+    "id": 192,
+    "name": "Corrente",
+    "ref": "192",
+    "category": "Correntes",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/192.jpg"
+  },
+  {
+    "id": 178,
+    "name": "Corrente Neymar",
+    "ref": "178",
+    "category": "Correntes",
+    "price": 60.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/178.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Jaqueta Armani Dourada",
+    "ref": "17",
+    "category": "Jaquetas",
+    "price": 220.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Jaqueta Armani(Preto)",
+    "ref": "18",
+    "category": "Jaquetas",
+    "price": 220.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Jaqueta Balmain",
+    "ref": "19",
+    "category": "Jaquetas",
+    "price": 220.0,
+    "stock_info": [
+      {
+        "size": "GG",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/19.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Jaqueta lisa Zara Branca",
+    "ref": "21",
+    "category": "Jaquetas",
+    "price": 200.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/21.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Jaqueta Lisa Zara Preta",
+    "ref": "20",
+    "category": "Jaquetas",
+    "price": 200.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/20.jpg"
+  },
+  {
+    "id": 81,
+    "name": "Lupa de Descanso Preto/Azul",
+    "ref": "81",
+    "category": "Óculos/Lupas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/81.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Lupa de Descanso Preto/Cinza",
+    "ref": "82",
+    "category": "Óculos/Lupas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/82.jpg"
+  },
+  {
+    "id": 83,
+    "name": "Lupa de Descanso Preto/Preto",
+    "ref": "83",
+    "category": "Óculos/Lupas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/83.jpg"
+  },
+  {
+    "id": 86,
+    "name": "Lupa Oakley Azul/Prata",
+    "ref": "86",
+    "category": "Óculos/Lupas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/86.jpg"
+  },
+  {
+    "id": 149,
+    "name": "Lupa Oakley Dourado/Branco(24k)",
+    "ref": "149",
+    "category": "Óculos/Lupas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 2
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/149.jpg"
+  },
+  {
+    "id": 88,
+    "name": "Lupa Oakley Dourado/Preto",
+    "ref": "88",
+    "category": "Óculos/Lupas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 2
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/88.jpg"
+  },
+  {
+    "id": 84,
+    "name": "Lupa Oakley Preto/Azul",
+    "ref": "84",
+    "category": "Óculos/Lupas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/84.jpg"
+  },
+  {
+    "id": 85,
+    "name": "Lupa Oakley Rosa/Preto",
+    "ref": "85",
+    "category": "Óculos/Lupas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/85.jpg"
+  },
+  {
+    "id": 87,
+    "name": "Lupa Oakley Vermelho/Preto",
+    "ref": "87",
+    "category": "Óculos/Lupas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/87.jpg"
+  },
+  {
+    "id": 148,
+    "name": "Lupa Oakley “Mc Kevin”",
+    "ref": "148",
+    "category": "Óculos/Lupas",
+    "price": 80.0,
+    "stock_info": [
+      {
+        "size": "Único",
+        "stock": 2
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/148.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Moletom Basico Lacoste Azul",
+    "ref": "72",
+    "category": "Moletons",
+    "price": 90.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/72.jpg"
+  },
+  {
+    "id": 73,
+    "name": "Moletom Basico Lacoste Preto",
+    "ref": "73",
+    "category": "Moletons",
+    "price": 90.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/73.jpg"
+  },
+  {
+    "id": 77,
+    "name": "Moletom Denim Tears",
+    "ref": "77",
+    "category": "Moletons",
+    "price": 100.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/77.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Moletom Lacoste Letreiro Verde",
+    "ref": "74",
+    "category": "Moletons",
+    "price": 120.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/74.jpg"
+  },
+  {
+    "id": 76,
+    "name": "Moletom Lv Branco",
+    "ref": "76",
+    "category": "Moletons",
+    "price": 100.0,
+    "stock_info": [
+      {
+        "size": "P",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/76.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Moletom Nike Jordan",
+    "ref": "75",
+    "category": "Moletons",
+    "price": 100.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/75.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Short Armani 7 Milano",
+    "ref": "29",
+    "category": "Shorts",
+    "price": 60.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      },
+      {
+        "size": "GG",
+        "stock": 1
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/29.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Short Armani 7 Milano(Quadriculado)",
+    "ref": "30",
+    "category": "Shorts",
+    "price": 60.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/30.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Short Armani EA7",
+    "ref": "28",
+    "category": "Shorts",
+    "price": 60.0,
+    "stock_info": [
+      {
+        "size": "GG",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/28.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Short Burberry",
+    "ref": "27",
+    "category": "Shorts",
+    "price": 60.0,
+    "stock_info": [
+      {
+        "size": "GG",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/27.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Short Casa Blanca Branco",
+    "ref": "25",
+    "category": "Shorts",
+    "price": 60.0,
+    "stock_info": [
+      {
+        "size": "GG",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/25.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Short Casa Blanca Quadriculado",
+    "ref": "26",
+    "category": "Shorts",
+    "price": 60.0,
+    "stock_info": [
+      {
+        "size": "GG",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/26.jpg"
+  },
+  {
+    "id": 97,
+    "name": "Short Jogador Brow Jeans",
+    "ref": "97",
+    "category": "Shorts",
+    "price": 100.0,
+    "stock_info": [
+      {
+        "size": "38",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/97.jpg"
+  },
+  {
+    "id": 98,
+    "name": "Short Jogador Brow Jeans",
+    "ref": "98",
+    "category": "Shorts",
+    "price": 100.0,
+    "stock_info": [
+      {
+        "size": "38",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/98.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Short Jogador Brow Jeans",
+    "ref": "103",
+    "category": "Shorts",
+    "price": 100.0,
+    "stock_info": [
+      {
+        "size": "40",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/103.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Short Jogador Brow Jeans",
+    "ref": "108",
+    "category": "Shorts",
+    "price": 100.0,
+    "stock_info": [
+      {
+        "size": "42",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/108.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Short Jogador Brow Jeans Azul",
+    "ref": "106",
+    "category": "Shorts",
+    "price": 100.0,
+    "stock_info": [
+      {
+        "size": "42",
+        "stock": 2
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/106.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Short Jogador Brow Jeans Azul Claro",
+    "ref": "105",
+    "category": "Shorts",
+    "price": 100.0,
+    "stock_info": [
+      {
+        "size": "42",
+        "stock": 2
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/105.jpg"
+  },
+  {
+    "id": 157,
+    "name": "Short Jogador Brow Jeans Claro",
+    "ref": "157",
+    "category": "Shorts",
+    "price": 100.0,
+    "stock_info": [
+      {
+        "size": "38",
+        "stock": 1
+      },
+      {
+        "size": "40",
+        "stock": 2
+      },
+      {
+        "size": "46",
+        "stock": 1
+      }
+    ],
+    "total_stock": 4,
+    "image_url": "assets/images/157.jpg"
+  },
+  {
+    "id": 99,
+    "name": "Short Jogador Brow Jeans Escama Azul",
+    "ref": "99",
+    "category": "Shorts",
+    "price": 100.0,
+    "stock_info": [
+      {
+        "size": "40",
+        "stock": 1
+      },
+      {
+        "size": "44",
+        "stock": 1
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/99.jpg"
+  },
+  {
+    "id": 100,
+    "name": "Short Jogador Brow Jeans Escama Preto",
+    "ref": "100",
+    "category": "Shorts",
+    "price": 130.0,
+    "stock_info": [
+      {
+        "size": "48",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/100.jpg"
+  },
+  {
+    "id": 156,
+    "name": "Short Jogador Brow Jeans Preto",
+    "ref": "156",
+    "category": "Shorts",
+    "price": 100.0,
+    "stock_info": [
+      {
+        "size": "38",
+        "stock": 2
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/156.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Short Moletom Balmain",
+    "ref": "12",
+    "category": "Shorts",
+    "price": 60.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Short Moletom Gucci",
+    "ref": "13",
+    "category": "Shorts",
+    "price": 60.0,
+    "stock_info": [
+      {
+        "size": "GG",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/13.jpg"
+  },
+  {
+    "id": 141,
+    "name": "Short Moletom Gucci",
+    "ref": "141",
+    "category": "Shorts",
+    "price": 60.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "size": "G",
+        "stock": 2
+      },
+      {
+        "size": "GG",
+        "stock": 1
+      }
+    ],
+    "total_stock": 5,
+    "image_url": "assets/images/141.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Short Moletom Marlboro Boss",
+    "ref": "14",
+    "category": "Shorts",
+    "price": 60.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/14.jpg"
+  },
+  {
+    "id": 140,
+    "name": "Short Sarja Brooksfield Azul",
+    "ref": "140",
+    "category": "Shorts",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      }
+    ],
+    "total_stock": 1,
+    "image_url": "assets/images/140.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Short Sarja Brooksfield Bege",
+    "ref": "15",
+    "category": "Shorts",
+    "price": 60.0,
+    "stock_info": [
+      {
+        "size": "G",
+        "stock": 1
+      },
+      {
+        "size": "GG",
+        "stock": 1
+      }
+    ],
+    "total_stock": 2,
+    "image_url": "assets/images/15.jpg"
+  },
+  {
+    "id": 139,
+    "name": "Short Sarja Brooksfield Preto",
+    "ref": "139",
+    "category": "Shorts",
+    "price": 70.0,
+    "stock_info": [
+      {
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "size": "G",
+        "stock": 3
+      }
+    ],
+    "total_stock": 5,
+    "image_url": "assets/images/139.jpg"
+  }
+]
