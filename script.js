@@ -108,9 +108,9 @@ document.addEventListener('DOMContentLoaded', () => {
         'jaquetas': 'jaqueta.png',
         'cintos': 'cinto.png',
         'correntes': 'corrente.png',
-        '-culos-lupas': 'lupa.png',
+        // '-culos-lupas': 'lupa.png', // Removido slug incorreto
         'oculos-lupas': 'lupa.png',
-        'lupas': 'lupa.png',
+        // 'lupas': 'lupa.png', // Removido slug genérico, 'oculos-lupas' é o suficiente
         'conjuntos': 'conjunto.png'
     };
 
