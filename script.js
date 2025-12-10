@@ -99,17 +99,18 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- 3. Mapeamento de Categorias para Ícones ---
     const categoryIconMap = {
-        'bones': 'bone.svg',
-        'camisetas': 'camiseta.svg',
-        'calcas': 'calca.svg',
-        'shorts': 'shorts.svg',
-        'moletons': 'moletom.svg',
-        'chinelos': 'chinelo.svg',
-        'jaquetas': 'jaqueta.svg',
-        'cintos': 'cinto.svg',
-        'correntes': 'corrente.svg',
-        'lupas': 'lupa.svg',
-        'conjuntos': 'conjunto.svg'
+        'bones': 'bone.png',
+        'camisetas': 'camiseta.png',
+        'calcas': 'calca.png',
+        'shorts': 'short.png',
+        'moletons': 'moletom.png',
+        'chinelos': 'short.png', // Usando short.png como fallback para chinelos
+        'jaquetas': 'jaqueta.png',
+        'cintos': 'cinto.png',
+        'correntes': 'corrente.png',
+        'oculos-lupas': 'lupa.png',
+        'lupas': 'lupa.png',
+        'conjuntos': 'conjunto.png'
     };
 
     // --- 3. Renderização de Produtos ---
@@ -132,8 +133,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const whatsappLink = `https://wa.me/5511958855631?text=${whatsappMessage}`;
 
         // Determina o ícone da categoria
-        const iconFileName = categoryIconMap[product.category_slug] || 'conjunto.svg'; // Usar um ícone mais genérico como fallback
-        const iconPath = `./assets/icons/${iconFileName}`;
+        const iconFileName = categoryIconMap[product.category_slug] || 'conjunto.png'; // Usar um ícone mais genérico como fallback
+        const iconPath = `./assets/new_icons/${iconFileName}`;
 
         card.innerHTML = `
             <div class="product-image-container">
