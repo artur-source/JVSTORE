@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Adiciona uma propriedade 'category_slug' para facilitar a filtragem
             allProducts = allProducts.map(p => ({
                 ...p,
-                category_slug: p.category.toLowerCase().replace(/[^a-z0-9]+/g, '-')
+                category_slug: p.category.normalize('NFD').replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, '-')
             }));
 
             renderCategories();
