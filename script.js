@@ -104,10 +104,11 @@ document.addEventListener('DOMContentLoaded', () => {
         'calcas': 'calca.png',
         'shorts': 'short.png',
         'moletons': 'moletom.png',
-        'chinelos': 'short.png', // Usando short.png como fallback para chinelos
+        'chinelos': 'chinelo.png',
         'jaquetas': 'jaqueta.png',
         'cintos': 'cinto.png',
         'correntes': 'corrente.png',
+        '-culos-lupas': 'lupa.png',
         'oculos-lupas': 'lupa.png',
         'lupas': 'lupa.png',
         'conjuntos': 'conjunto.png'
