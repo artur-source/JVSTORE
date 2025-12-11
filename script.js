@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Adiciona uma propriedade 'category_slug' para facilitar a filtragem
             allProducts = allProducts.map(p => ({
                 ...p,
-                category_slug: p.category.normalize('NFD').replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, '-')
+                category_slug: p.category.toLowerCase().replace(/[^a-z0-9]+/g, '-')
             }));
 
             renderCategories();
@@ -99,9 +99,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- 3. Mapeamento de Categorias para Ícones ---
     const categoryIconMap = {
-        'bones': 'bone.png',
+        'bon-s': 'bone.png',
         'camisetas': 'camiseta.png',
-        'calcas': 'calca.png',
+        'cal-as': 'calca.png',
         'shorts': 'short.png',
         'moletons': 'moletom.png',
         'chinelos': 'chinelo.png',
@@ -109,7 +109,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'cintos': 'cinto.png',
         'correntes': 'corrente.png',
         // '-culos-lupas': 'lupa.png', // Removido slug incorreto
-        'oculos-lupas': 'lupa.png',
+        '-culos-lupas': 'lupa.png',
         // 'lupas': 'lupa.png', // Removido slug genérico, 'oculos-lupas' é o suficiente
         'conjuntos': 'conjunto.png'
     };
@@ -223,3 +223,5 @@ document.addEventListener('DOMContentLoaded', () => {
     loadProducts();
     setActiveFilter('todos'); // Define o filtro inicial como "Todos"
 });
+
+
