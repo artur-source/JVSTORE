@@ -444,6 +444,24 @@ a:hover {
     border-top: 1px solid #555;
 }
 
+.developer-credit {
+    margin-top: 10px;
+    font-size: 0.8rem;
+    color: #ccc; /* Cor mais suave */
+}
+
+.portfolio-link {
+    font-size: 0.8rem;
+    font-weight: bold;
+    color: var(--color-text-light) !important; /* Branco para destaque */
+    text-decoration: underline;
+    transition: color 0.3s ease;
+}
+
+.portfolio-link:hover {
+    color: var(--color-background) !important; /* Cinza claro no hover */
+}
+
 /* ==========================================================================
    Responsividade (Mobile-First)
    ========================================================================== */
